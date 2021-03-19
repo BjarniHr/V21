@@ -9,7 +9,8 @@
 Skoðaðu [þessa grein](https://lastminuteengineers.com/dht11-module-arduino-tutorial/) um hita og rakaskynjarann DHT11. 
 
 1. Útskýrðu með eigin orðum hvernig rakinn er mældur.
-1. Settu upp fyrri rásina í greininni (það á ekki að setja upp rásina með LCD skjánum).
+   blablabla
+3. Settu upp fyrri rásina í greininni (það á ekki að setja upp rásina með LCD skjánum).
 
 #### 7-Segment ein tala (3%)
 
